@@ -23,8 +23,8 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: [Arrays & For Loops](./2-arrays)
-- Part II: [While Loops](./3-array-iteration)
+- Part I: [Arrays & For Loops](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-V/tree/main/Exercise/Array%20%26%20For%20Loops)
+- Part II: [While Loops](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-V/tree/main/Exercise/While%20Loops)
 
 
 ## Thinking about JavaScript
